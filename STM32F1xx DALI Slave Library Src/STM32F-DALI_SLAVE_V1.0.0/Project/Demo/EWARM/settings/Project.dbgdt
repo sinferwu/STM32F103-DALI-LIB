@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1381</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1035</ColumnWidth1>
+        <ColumnWidth2>276</ColumnWidth2>
+        <ColumnWidth3>69</ColumnWidth3>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>Debug-Log</Factory>
+            </Window>
+            <Window>
+              <Factory>Find-in-Files</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>161</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          <item>Disassembly</item>
+          <item>_I0</item>
+        </col-names>
+        <col-widths>
+          <item>500</item>
+          <item>20</item>
+        </col-widths>
+        <DisasmHistory/>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <ShowCodeCoverage>0</ShowCodeCoverage>
+        <ShowInstrProfiling>0</ShowInstrProfiling>
+      </Disassembly>
+      <Find-in-Files>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <ColumnWidth0>496</ColumnWidth0>
+        <ColumnWidth1>70</ColumnWidth1>
+        <ColumnWidth2>850</ColumnWidth2>
+      </Find-in-Files>
+      <Memory>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        
+        
+      <FindDirection>1</FindDirection><FindAsHex>0</FindAsHex></Memory>
+      <StaticWatch>
+        <expressions>
+          <item>DALIP_iMaxLevel</item>
+          <item>DALIP_bIncrease</item>
+          <item>DALIP_iChangeEvery</item>
+          <item>DALIP_iChangeCountdown</item>
+          <item>idx</item>
+          <item/>
+        </expressions>
+        <col-names>
+          <item>Expression</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+        </col-names>
+        <col-widths>
+          <item>154</item>
+          <item>150</item>
+          <item>100</item>
+          <item>165</item>
+        </col-widths>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>WATCH_1</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+      </StaticWatch>
+      <WATCH_1>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>StaticWatch</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+        <expressions>
+          
+          
+          
+          
+          
+        <item>idx</item><item>eeprom_variable</item><item>read_eeprom_variable</item><item>Address</item><item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>150</item><item>150</item><item>100</item><item>100</item></col-widths>
+      </WATCH_1>
+      <Locals>
+        <col-names>
+          
+          
+          
+          
+        <item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>150</item><item>100</item><item>100</item><item>146</item></col-widths>
+      </Locals>
+      <Breakpoints>
+        <col-names>
+          <item>Breakpoint</item>
+          <item>_I0</item>
+        </col-names>
+        <col-widths>
+          <item>500</item>
+          <item>35</item>
+        </col-widths>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+      </Breakpoints>
+      <CallStack>
+        <col-names>
+          
+          
+        <item>Frame</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>400</item><item>20</item></col-widths>
+      </CallStack>
+    </Static>
+    <Windows>
+      
+      
+      
+      
+      
+      
+    <Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29014-27254</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Project</ExpandedNode><ExpandedNode>Project/DALIStack</ExpandedNode><ExpandedNode>Project/DALI_User</ExpandedNode><ExpandedNode>Project/StdPeriph_Driver</ExpandedNode><ExpandedNode>Project/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5><Wnd6>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29874-13710</Identity>
+            <TabName>Locals</TabName>
+            <Factory>Locals</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd6><Wnd8>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30314-16568</Identity>
+            <TabName>Watch 1</TabName>
+            <Factory>WATCH_1</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd8><Wnd9>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23706-17920</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd9><Wnd10>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-641-17943</Identity>
+            <TabName>Memory</TabName>
+            <Factory>Memory</Factory>
+            <Session>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            <ZoneNumber>0</ZoneNumber><SelectionAnchor>134283494</SelectionAnchor><SelectionEnd>134283495</SelectionEnd><UnitsPerGroup>1</UnitsPerGroup><EndianMode>0</EndianMode><DataCovEnabled>0</DataCovEnabled><DataCovShown>0</DataCovShown><AutoRefresh>0</AutoRefresh><HScroll>0</HScroll><VScroll>8392713</VScroll></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd10><Wnd11>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24062-18527</Identity>
+            <TabName>Call Stack</TabName>
+            <Factory>CallStack</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd11></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\DALIStack\src\eeprom.c</Filename><XPos>0</XPos><YPos>631</YPos><SelStart>21158</SelStart><SelEnd>21158</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\DALIStack\src\dali.c</Filename><XPos>0</XPos><YPos>257</YPos><SelStart>9644</SelStart><SelEnd>9644</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\DALIStack\src\dali_regs.c</Filename><XPos>0</XPos><YPos>134</YPos><SelStart>4914</SelStart><SelEnd>4914</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>235</YPos><SelStart>9967</SelStart><SelEnd>9967</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\DALIStack\src\dali_cmd.c</Filename><XPos>0</XPos><YPos>1387</YPos><SelStart>44701</SelStart><SelEnd>44701</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\DALIStack\src\dali_config.c</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>6428</SelStart><SelEnd>6428</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\DALIStack\src\dali_pub.c</Filename><XPos>0</XPos><YPos>392</YPos><SelStart>15253</SelStart><SelEnd>15253</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\DALIStack\src\lite_timer_8bit.c</Filename><XPos>0</XPos><YPos>121</YPos><SelStart>3206</SelStart><SelEnd>3206</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\DALIslave.c</Filename><XPos>0</XPos><YPos>267</YPos><SelStart>7613</SelStart><SelEnd>7613</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\main.c</Filename><XPos>0</XPos><YPos>66</YPos><SelStart>2972</SelStart><SelEnd>2972</SelEnd></Tab><ActiveTab>9</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0134b108><key>iaridepm.enu1</key></Toolbar-0134b108></Sizes></Row0><Row1><Sizes><Toolbar-0487ecd8><key>debuggergui.enu1</key></Toolbar-0487ecd8></Sizes></Row1></Top><Left><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>433</Bottom><Right>252</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>138889</sizeHorzCX><sizeHorzCY>242718</sizeHorzCY><sizeVertCX>176389</sizeVertCX><sizeVertCY>527913</sizeVertCY></Rect></Wnd5></Sizes></Row0><Row1><Sizes><Wnd11><Rect><Top>-2</Top><Left>250</Left><Bottom>433</Bottom><Right>387</Right><x>250</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>138889</sizeHorzCX><sizeHorzCY>242718</sizeHorzCY><sizeVertCX>95139</sizeVertCX><sizeVertCY>527913</sizeVertCY></Rect></Wnd11></Sizes></Row1></Left><Right><Row0><Sizes><Wnd6><Rect><Top>-2</Top><Left>-2</Left><Bottom>433</Bottom><Right>269</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>138889</sizeHorzCX><sizeHorzCY>242718</sizeHorzCY><sizeVertCX>188194</sizeVertCX><sizeVertCY>527913</sizeVertCY></Rect></Wnd6></Sizes></Row0><Row1><Sizes><Wnd8><Rect><Top>-2</Top><Left>267</Left><Bottom>433</Bottom><Right>529</Right><x>267</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>138889</sizeHorzCX><sizeHorzCY>242718</sizeHorzCY><sizeVertCX>181944</sizeVertCX><sizeVertCY>527913</sizeVertCY></Rect></Wnd8></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd9><Rect><Top>-2</Top><Left>-2</Left><Bottom>125</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>127</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>154126</sizeHorzCY><sizeVertCX>138889</sizeVertCX><sizeVertCY>242718</sizeVertCY></Rect></Wnd9></Sizes></Row0><Row1><Sizes><Wnd10><Rect><Top>123</Top><Left>-2</Left><Bottom>323</Bottom><Right>1442</Right><x>-2</x><y>123</y><xscreen>1444</xscreen><yscreen>200</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>242718</sizeHorzCY><sizeVertCX>138889</sizeVertCX><sizeVertCY>242718</sizeVertCY></Rect></Wnd10></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
